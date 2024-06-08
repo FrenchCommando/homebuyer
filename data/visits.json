@@ -1,0 +1,15 @@
+{
+  "Carroll1": {
+    "Price": 1200000,
+    "Address": "Carroll St",
+    "Type": "Co-op",
+    "Size": "2Bed+garden",
+    "Monthly": {
+      "Real Estate Tax": 50,
+      "Maintenance": 500,
+      "HOA": 1500
+    },
+    "Concessions": ["Low Broker Fees"],
+    "Comments": ["Cute"]
+  }
+}
